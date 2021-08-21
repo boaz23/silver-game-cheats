@@ -2,23 +2,21 @@
 <CheatTable CheatEngineTableVersion="34">
   <CheatEntries>
     <CheatEntry>
-      <ID>44</ID>
+      <ID>135</ID>
       <Description>"------------------------------"</Description>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>0</Address>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
     </CheatEntry>
     <CheatEntry>
-      <ID>106</ID>
+      <ID>133</ID>
       <Description>"- CHARACTERS -"</Description>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>0</Address>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
     </CheatEntry>
     <CheatEntry>
       <ID>112</ID>
       <Description>"char-1"</Description>
-      <LastState Value="11A9BC10" RealAddress="10F10E78"/>
+      <LastState Value="11B5CC10" RealAddress="10FED9BC"/>
       <ShowAsHex>1</ShowAsHex>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
@@ -32,7 +30,7 @@
         <CheatEntry>
           <ID>120</ID>
           <Description>"char-1_stat_class?"</Description>
-          <LastState Value="1" RealAddress="11A9BC10"/>
+          <LastState Value="1" RealAddress="11B5CC10"/>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
           <Address>"silver.exe"+002D47EC</Address>
@@ -46,7 +44,7 @@
         <CheatEntry>
           <ID>121</ID>
           <Description>"char-1_stat_level"</Description>
-          <LastState Value="2" RealAddress="11A9BC14"/>
+          <LastState Value="3" RealAddress="11B5CC14"/>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
           <Address>"silver.exe"+002D47EC</Address>
@@ -60,7 +58,7 @@
         <CheatEntry>
           <ID>122</ID>
           <Description>"char-1_stat_strength"</Description>
-          <LastState Value="60" RealAddress="11A9BC18"/>
+          <LastState Value="78" RealAddress="11B5CC18"/>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
           <Address>"silver.exe"+002D47EC</Address>
@@ -74,7 +72,7 @@
         <CheatEntry>
           <ID>123</ID>
           <Description>"char-1_stat_dexterity"</Description>
-          <LastState Value="44" RealAddress="11A9BC1C"/>
+          <LastState Value="57" RealAddress="11B5CC1C"/>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
           <Address>"silver.exe"+002D47EC</Address>
@@ -88,7 +86,7 @@
         <CheatEntry>
           <ID>124</ID>
           <Description>"char-1_stat_ranged-skill"</Description>
-          <LastState Value="37" RealAddress="11A9BC20"/>
+          <LastState Value="45" RealAddress="11B5CC20"/>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
           <Address>"silver.exe"+002D47EC</Address>
@@ -102,7 +100,7 @@
         <CheatEntry>
           <ID>125</ID>
           <Description>"char-1_stat_wisdom"</Description>
-          <LastState Value="33" RealAddress="11A9BC24"/>
+          <LastState Value="42" RealAddress="11B5CC24"/>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
           <Address>"silver.exe"+002D47EC</Address>
@@ -116,7 +114,7 @@
         <CheatEntry>
           <ID>126</ID>
           <Description>"char-1_stat_constitution"</Description>
-          <LastState Value="46" RealAddress="11A9BC28"/>
+          <LastState Value="55" RealAddress="11B5CC28"/>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
           <Address>"silver.exe"+002D47EC</Address>
@@ -130,7 +128,7 @@
         <CheatEntry>
           <ID>127</ID>
           <Description>"char-1_stat_current-hit-points"</Description>
-          <LastState Value="83" RealAddress="11A9BC2C"/>
+          <LastState Value="194" RealAddress="11B5CC2C"/>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
           <Address>"silver.exe"+002D47EC</Address>
@@ -144,7 +142,7 @@
         <CheatEntry>
           <ID>128</ID>
           <Description>"char-1_stat_current-magic"</Description>
-          <LastState Value="45" RealAddress="11A9BC30"/>
+          <LastState Value="55" RealAddress="11B5CC30"/>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
           <Address>"silver.exe"+002D47EC</Address>
@@ -158,7 +156,7 @@
         <CheatEntry>
           <ID>129</ID>
           <Description>"char-1_stat_max-hit-points"</Description>
-          <LastState Value="136" RealAddress="11A9BC34"/>
+          <LastState Value="194" RealAddress="11B5CC34"/>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
           <Address>"silver.exe"+002D47EC</Address>
@@ -172,7 +170,7 @@
         <CheatEntry>
           <ID>130</ID>
           <Description>"char-1_stat_max-magic"</Description>
-          <LastState Value="45" RealAddress="11A9BC38"/>
+          <LastState Value="55" RealAddress="11B5CC38"/>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
           <Address>"silver.exe"+002D47EC</Address>
@@ -186,7 +184,7 @@
         <CheatEntry>
           <ID>131</ID>
           <Description>"char-1_stat_armour-class"</Description>
-          <LastState Value="18" RealAddress="11A9BC3C"/>
+          <LastState Value="28" RealAddress="11B5CC3C"/>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
           <Address>"silver.exe"+002D47EC</Address>
@@ -200,7 +198,7 @@
         <CheatEntry>
           <ID>132</ID>
           <Description>"char-1_sp_web-of-death"</Description>
-          <LastState Value="3F800000" RealAddress="11A9BCF0"/>
+          <LastState Value="3F800000" RealAddress="11B5CCF0"/>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
@@ -217,7 +215,7 @@
     <CheatEntry>
       <ID>118</ID>
       <Description>"char-2"</Description>
-      <LastState Value="99" RealAddress="11A89834"/>
+      <LastState Value="141" RealAddress="11B4A834"/>
       <VariableType>4 Bytes</VariableType>
       <Address>"silver.exe"+002D47EC</Address>
       <Offsets>
@@ -240,16 +238,15 @@
       </Offsets>
     </CheatEntry>
     <CheatEntry>
-      <ID>59</ID>
+      <ID>134</ID>
       <Description>"------------------------------"</Description>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>0</Address>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
     </CheatEntry>
     <CheatEntry>
       <ID>54</ID>
       <Description>"gold"</Description>
-      <LastState Value="176" RealAddress="12C6CDC4"/>
+      <LastState Value="251" RealAddress="12E50DC4"/>
       <VariableType>4 Bytes</VariableType>
       <Address>"silver.exe"+002E9EF4</Address>
       <Offsets>
@@ -257,23 +254,21 @@
       </Offsets>
     </CheatEntry>
     <CheatEntry>
-      <ID>104</ID>
+      <ID>136</ID>
       <Description>"------------------------------"</Description>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>0</Address>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
     </CheatEntry>
     <CheatEntry>
-      <ID>105</ID>
+      <ID>139</ID>
       <Description>"- RANGED AMMO -"</Description>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>0</Address>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
     </CheatEntry>
     <CheatEntry>
       <ID>51</ID>
       <Description>"arrows"</Description>
-      <LastState Value="92" RealAddress="12C6CDD4"/>
+      <LastState Value="88" RealAddress="12E50DD4"/>
       <VariableType>4 Bytes</VariableType>
       <Address>"silver.exe"+002E9EF4</Address>
       <Offsets>
@@ -281,16 +276,15 @@
       </Offsets>
     </CheatEntry>
     <CheatEntry>
-      <ID>52</ID>
+      <ID>137</ID>
       <Description>"------------------------------"</Description>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>0</Address>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
     </CheatEntry>
     <CheatEntry>
       <ID>76</ID>
       <Description>"ice-wand"</Description>
-      <LastState Value="3F800000" RealAddress="10F30694"/>
+      <LastState Value="3F800000" RealAddress="10FE43C8"/>
       <ShowAsHex>1</ShowAsHex>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
@@ -304,11 +298,10 @@
       </Offsets>
     </CheatEntry>
     <CheatEntry>
-      <ID>74</ID>
+      <ID>138</ID>
       <Description>"------------------------------"</Description>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>0</Address>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
     </CheatEntry>
   </CheatEntries>
   <CheatCodes>
