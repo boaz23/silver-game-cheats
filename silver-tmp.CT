@@ -2,422 +2,303 @@
 <CheatTable CheatEngineTableVersion="34">
   <CheatEntries>
     <CheatEntry>
-      <ID>55</ID>
-      <Description>"num chars -&gt; [chars index]"</Description>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>0</Address>
-      <CheatEntries>
-        <CheatEntry>
-          <ID>56</ID>
-          <Description>"1 -&gt; [2]"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>0</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>57</ID>
-          <Description>"2 -&gt; [2, 3]"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>0</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>58</ID>
-          <Description>"3 -&gt; [1, 2, 3]"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>0</Address>
-        </CheatEntry>
-      </CheatEntries>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>35</ID>
-      <Description>"current info"</Description>
-      <LastState Value="285" RealAddress="11A9BC34"/>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"silver.exe"+003F32F4</Address>
-      <Offsets>
-        <Offset>414</Offset>
-        <Offset>DC</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>38</ID>
-      <Description>"curerntly selected"</Description>
-      <LastState Value="285" RealAddress="11A9BC34"/>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"silver.exe"+002D47EC</Address>
-      <Offsets>
-        <Offset>414</Offset>
-        <Offset>DC</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>29</ID>
-      <Description>"3 chars - char 1 max health"</Description>
-      <LastState Value="390" RealAddress="11AAE034"/>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"silver.exe"+003F842C</Address>
-      <Offsets>
-        <Offset>414</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>30</ID>
-      <Description>"3 chars - char 1 max health"</Description>
-      <LastState Value="390" RealAddress="11AAE034"/>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"silver.exe"+003F8448</Address>
-      <Offsets>
-        <Offset>414</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>45</ID>
-      <Description>"3 chars - char 2 max health"</Description>
-      <LastState Value="455" RealAddress="11A89834"/>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"silver.exe"+003F83EC</Address>
-      <Offsets>
-        <Offset>414</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>46</ID>
-      <Description>"3 chars - char 2 max health"</Description>
-      <LastState Value="455" RealAddress="11A89834"/>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"silver.exe"+003F8408</Address>
-      <Offsets>
-        <Offset>414</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>42</ID>
-      <Description>"3 chars - char 3 max health"</Description>
-      <LastState Value="285" RealAddress="11A9BC34"/>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"silver.exe"+003F840C</Address>
-      <Offsets>
-        <Offset>414</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>43</ID>
-      <Description>"3 chars - char 3 max health"</Description>
-      <LastState Value="285" RealAddress="11A9BC34"/>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"silver.exe"+003F8428</Address>
-      <Offsets>
-        <Offset>414</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>44</ID>
+      <ID>135</ID>
       <Description>"------------------------------"</Description>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>0</Address>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
     </CheatEntry>
     <CheatEntry>
-      <ID>106</ID>
+      <ID>133</ID>
       <Description>"- CHARACTERS -"</Description>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>0</Address>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>77</ID>
-      <Description>"char-1"</Description>
-      <LastState Value="11AAE010" RealAddress="10F1B704"/>
-      <ShowAsHex>1</ShowAsHex>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"silver.exe"+003F1568</Address>
-      <Offsets>
-        <Offset>6C</Offset>
-        <Offset>64</Offset>
-        <Offset>8</Offset>
-      </Offsets>
-      <CheatEntries>
-        <CheatEntry>
-          <ID>78</ID>
-          <Description>"char-1_stat_class?"</Description>
-          <LastState Value="1" RealAddress="11AAE010"/>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>"silver.exe"+003F1568</Address>
-          <Offsets>
-            <Offset>0</Offset>
-            <Offset>6C</Offset>
-            <Offset>64</Offset>
-            <Offset>8</Offset>
-          </Offsets>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>79</ID>
-          <Description>"char-1_stat_level"</Description>
-          <LastState Value="5" RealAddress="11AAE014"/>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>"silver.exe"+003F1568</Address>
-          <Offsets>
-            <Offset>4</Offset>
-            <Offset>6C</Offset>
-            <Offset>64</Offset>
-            <Offset>8</Offset>
-          </Offsets>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>80</ID>
-          <Description>"char-1_stat_strength"</Description>
-          <LastState Value="131" RealAddress="11AAE018"/>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>"silver.exe"+003F1568</Address>
-          <Offsets>
-            <Offset>8</Offset>
-            <Offset>6C</Offset>
-            <Offset>64</Offset>
-            <Offset>8</Offset>
-          </Offsets>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>81</ID>
-          <Description>"char-1_stat_dexterity"</Description>
-          <LastState Value="97" RealAddress="11AAE01C"/>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>"silver.exe"+003F1568</Address>
-          <Offsets>
-            <Offset>C</Offset>
-            <Offset>6C</Offset>
-            <Offset>64</Offset>
-            <Offset>8</Offset>
-          </Offsets>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>82</ID>
-          <Description>"char-1_stat_ranged-skill"</Description>
-          <LastState Value="64" RealAddress="11AAE020"/>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>"silver.exe"+003F1568</Address>
-          <Offsets>
-            <Offset>10</Offset>
-            <Offset>6C</Offset>
-            <Offset>64</Offset>
-            <Offset>8</Offset>
-          </Offsets>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>83</ID>
-          <Description>"char-1_stat_wisdom"</Description>
-          <LastState Value="71" RealAddress="11AAE024"/>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>"silver.exe"+003F1568</Address>
-          <Offsets>
-            <Offset>14</Offset>
-            <Offset>6C</Offset>
-            <Offset>64</Offset>
-            <Offset>8</Offset>
-          </Offsets>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>84</ID>
-          <Description>"char-1_stat_constitution"</Description>
-          <LastState Value="79" RealAddress="11AAE028"/>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>"silver.exe"+003F1568</Address>
-          <Offsets>
-            <Offset>18</Offset>
-            <Offset>6C</Offset>
-            <Offset>64</Offset>
-            <Offset>8</Offset>
-          </Offsets>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>85</ID>
-          <Description>"char-1_stat_current-hit-points"</Description>
-          <LastState Value="390" RealAddress="11AAE02C"/>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>"silver.exe"+003F1568</Address>
-          <Offsets>
-            <Offset>1C</Offset>
-            <Offset>6C</Offset>
-            <Offset>64</Offset>
-            <Offset>8</Offset>
-          </Offsets>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>86</ID>
-          <Description>"char-1_stat_current-magic"</Description>
-          <LastState Value="82" RealAddress="11AAE030"/>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>"silver.exe"+003F1568</Address>
-          <Offsets>
-            <Offset>20</Offset>
-            <Offset>6C</Offset>
-            <Offset>64</Offset>
-            <Offset>8</Offset>
-          </Offsets>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>87</ID>
-          <Description>"char-1_stat_max-hit-points"</Description>
-          <LastState Value="390" RealAddress="11AAE034"/>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>"silver.exe"+003F1568</Address>
-          <Offsets>
-            <Offset>24</Offset>
-            <Offset>6C</Offset>
-            <Offset>64</Offset>
-            <Offset>8</Offset>
-          </Offsets>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>88</ID>
-          <Description>"char-1_stat_max-magic"</Description>
-          <LastState Value="82" RealAddress="11AAE038"/>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>"silver.exe"+003F1568</Address>
-          <Offsets>
-            <Offset>28</Offset>
-            <Offset>6C</Offset>
-            <Offset>64</Offset>
-            <Offset>8</Offset>
-          </Offsets>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>89</ID>
-          <Description>"char-1_stat_armour-class"</Description>
-          <LastState Value="72" RealAddress="11AAE03C"/>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>"silver.exe"+003F1568</Address>
-          <Offsets>
-            <Offset>2C</Offset>
-            <Offset>6C</Offset>
-            <Offset>64</Offset>
-            <Offset>8</Offset>
-          </Offsets>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>90</ID>
-          <Description>"char-1_sp_web-of-death"</Description>
-          <LastState Value="3F800000" RealAddress="11AAE0F0"/>
-          <ShowAsHex>1</ShowAsHex>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>"silver.exe"+003F1568</Address>
-          <Offsets>
-            <Offset>E0</Offset>
-            <Offset>6C</Offset>
-            <Offset>64</Offset>
-            <Offset>8</Offset>
-          </Offsets>
-        </CheatEntry>
-      </CheatEntries>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>100</ID>
-      <Description>"char-2"</Description>
-      <LastState Value="11A89810" RealAddress="10F1CB24"/>
-      <ShowAsHex>1</ShowAsHex>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"silver.exe"+003F1568</Address>
-      <Offsets>
-        <Offset>6C</Offset>
-        <Offset>64</Offset>
-        <Offset>EC</Offset>
-      </Offsets>
-      <CheatEntries>
-        <CheatEntry>
-          <ID>102</ID>
-          <Description>"char-2_stat_max-hit-points"</Description>
-          <LastState Value="455" RealAddress="11A89834"/>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>"silver.exe"+003F1568</Address>
-          <Offsets>
-            <Offset>24</Offset>
-            <Offset>6C</Offset>
-            <Offset>64</Offset>
-            <Offset>EC</Offset>
-          </Offsets>
-        </CheatEntry>
-      </CheatEntries>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>101</ID>
-      <Description>"char-3"</Description>
-      <LastState Value="11A9BC10" RealAddress="10F1C114"/>
-      <ShowAsHex>1</ShowAsHex>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"silver.exe"+003F1568</Address>
-      <Offsets>
-        <Offset>6C</Offset>
-        <Offset>64</Offset>
-        <Offset>C</Offset>
-      </Offsets>
-      <CheatEntries>
-        <CheatEntry>
-          <ID>103</ID>
-          <Description>"char-3_stat_max-hit-points"</Description>
-          <LastState Value="285" RealAddress="11A9BC34"/>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>"silver.exe"+003F1568</Address>
-          <Offsets>
-            <Offset>24</Offset>
-            <Offset>6C</Offset>
-            <Offset>64</Offset>
-            <Offset>C</Offset>
-          </Offsets>
-        </CheatEntry>
-      </CheatEntries>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>110</ID>
-      <Description>"------------------------------"</Description>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>0</Address>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
     </CheatEntry>
     <CheatEntry>
       <ID>112</ID>
-      <Description>"char-1?"</Description>
-      <LastState Value="390" RealAddress="11AAE034"/>
+      <Description>"char-1"</Description>
+      <ShowAsHex>1</ShowAsHex>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
       <Address>"silver.exe"+002D47EC</Address>
       <Offsets>
-        <Offset>24</Offset>
         <Offset>6C</Offset>
         <Offset>128</Offset>
         <Offset>7C</Offset>
       </Offsets>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>120</ID>
+          <Description>"char-1_stat_class?"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"silver.exe"+002D47EC</Address>
+          <Offsets>
+            <Offset>0</Offset>
+            <Offset>6C</Offset>
+            <Offset>128</Offset>
+            <Offset>7C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>121</ID>
+          <Description>"char-1_stat_level"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"silver.exe"+002D47EC</Address>
+          <Offsets>
+            <Offset>4</Offset>
+            <Offset>6C</Offset>
+            <Offset>128</Offset>
+            <Offset>7C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>122</ID>
+          <Description>"char-1_stat_strength"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"silver.exe"+002D47EC</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>6C</Offset>
+            <Offset>128</Offset>
+            <Offset>7C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>123</ID>
+          <Description>"char-1_stat_dexterity"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"silver.exe"+002D47EC</Address>
+          <Offsets>
+            <Offset>C</Offset>
+            <Offset>6C</Offset>
+            <Offset>128</Offset>
+            <Offset>7C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>124</ID>
+          <Description>"char-1_stat_ranged-skill"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"silver.exe"+002D47EC</Address>
+          <Offsets>
+            <Offset>10</Offset>
+            <Offset>6C</Offset>
+            <Offset>128</Offset>
+            <Offset>7C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>125</ID>
+          <Description>"char-1_stat_wisdom"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"silver.exe"+002D47EC</Address>
+          <Offsets>
+            <Offset>14</Offset>
+            <Offset>6C</Offset>
+            <Offset>128</Offset>
+            <Offset>7C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>126</ID>
+          <Description>"char-1_stat_constitution"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"silver.exe"+002D47EC</Address>
+          <Offsets>
+            <Offset>18</Offset>
+            <Offset>6C</Offset>
+            <Offset>128</Offset>
+            <Offset>7C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>127</ID>
+          <Description>"char-1_stat_current-hit-points"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"silver.exe"+002D47EC</Address>
+          <Offsets>
+            <Offset>1C</Offset>
+            <Offset>6C</Offset>
+            <Offset>128</Offset>
+            <Offset>7C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>128</ID>
+          <Description>"char-1_stat_current-magic"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"silver.exe"+002D47EC</Address>
+          <Offsets>
+            <Offset>20</Offset>
+            <Offset>6C</Offset>
+            <Offset>128</Offset>
+            <Offset>7C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>129</ID>
+          <Description>"char-1_stat_max-hit-points"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"silver.exe"+002D47EC</Address>
+          <Offsets>
+            <Offset>24</Offset>
+            <Offset>6C</Offset>
+            <Offset>128</Offset>
+            <Offset>7C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>130</ID>
+          <Description>"char-1_stat_max-magic"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"silver.exe"+002D47EC</Address>
+          <Offsets>
+            <Offset>28</Offset>
+            <Offset>6C</Offset>
+            <Offset>128</Offset>
+            <Offset>7C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>131</ID>
+          <Description>"char-1_stat_armour-class"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"silver.exe"+002D47EC</Address>
+          <Offsets>
+            <Offset>2C</Offset>
+            <Offset>6C</Offset>
+            <Offset>128</Offset>
+            <Offset>7C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>132</ID>
+          <Description>"char-1_sp_web-of-death"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"silver.exe"+002D47EC</Address>
+          <Offsets>
+            <Offset>E0</Offset>
+            <Offset>6C</Offset>
+            <Offset>128</Offset>
+            <Offset>7C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>140</ID>
+          <Description>"char-1_sp_reaper"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"silver.exe"+002D47EC</Address>
+          <Offsets>
+            <Offset>E4</Offset>
+            <Offset>6C</Offset>
+            <Offset>128</Offset>
+            <Offset>7C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>141</ID>
+          <Description>"char-1_sp_cleaver"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"silver.exe"+002D47EC</Address>
+          <Offsets>
+            <Offset>E8</Offset>
+            <Offset>6C</Offset>
+            <Offset>128</Offset>
+            <Offset>7C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>142</ID>
+          <Description>"char-1_sp_scythe"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"silver.exe"+002D47EC</Address>
+          <Offsets>
+            <Offset>EC</Offset>
+            <Offset>6C</Offset>
+            <Offset>128</Offset>
+            <Offset>7C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>143</ID>
+          <Description>"char-1_sp_falcon"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"silver.exe"+002D47EC</Address>
+          <Offsets>
+            <Offset>F0</Offset>
+            <Offset>6C</Offset>
+            <Offset>128</Offset>
+            <Offset>7C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>144</ID>
+          <Description>"char-1_sp_hurricane"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"silver.exe"+002D47EC</Address>
+          <Offsets>
+            <Offset>F4</Offset>
+            <Offset>6C</Offset>
+            <Offset>128</Offset>
+            <Offset>7C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>145</ID>
+          <Description>"char-1_sp_berserker"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"silver.exe"+002D47EC</Address>
+          <Offsets>
+            <Offset>F8</Offset>
+            <Offset>6C</Offset>
+            <Offset>128</Offset>
+            <Offset>7C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>146</ID>
+          <Description>"char-1_sp_armageddon"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"silver.exe"+002D47EC</Address>
+          <Offsets>
+            <Offset>FC</Offset>
+            <Offset>6C</Offset>
+            <Offset>128</Offset>
+            <Offset>7C</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
     </CheatEntry>
     <CheatEntry>
       <ID>118</ID>
-      <Description>"char-2?"</Description>
-      <LastState Value="455" RealAddress="11A89834"/>
+      <Description>"char-2"</Description>
       <VariableType>4 Bytes</VariableType>
       <Address>"silver.exe"+002D47EC</Address>
       <Offsets>
@@ -428,58 +309,32 @@
       </Offsets>
     </CheatEntry>
     <CheatEntry>
-      <ID>107</ID>
-      <Description>"char-1_stat_max-hit-points"</Description>
-      <LastState Value="390" RealAddress="11AAE034"/>
-      <ShowAsSigned>0</ShowAsSigned>
+      <ID>119</ID>
+      <Description>"char-3"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"silver.exe"+003F1568</Address>
+      <Address>"silver.exe"+002D47EC</Address>
       <Offsets>
         <Offset>24</Offset>
         <Offset>6C</Offset>
-        <Offset>64</Offset>
-        <Offset>8</Offset>
+        <Offset>160</Offset>
+        <Offset>7C</Offset>
       </Offsets>
     </CheatEntry>
     <CheatEntry>
-      <ID>108</ID>
-      <Description>"char-2_stat_max-hit-points"</Description>
-      <LastState Value="455" RealAddress="11A89834"/>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"silver.exe"+003F1568</Address>
-      <Offsets>
-        <Offset>24</Offset>
-        <Offset>6C</Offset>
-        <Offset>64</Offset>
-        <Offset>EC</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>109</ID>
-      <Description>"char-3_stat_max-hit-points"</Description>
-      <LastState Value="285" RealAddress="11A9BC34"/>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"silver.exe"+003F1568</Address>
-      <Offsets>
-        <Offset>24</Offset>
-        <Offset>6C</Offset>
-        <Offset>64</Offset>
-        <Offset>C</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>59</ID>
+      <ID>134</ID>
       <Description>"------------------------------"</Description>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>0</Address>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>177</ID>
+      <Description>"- GOLD -"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
     </CheatEntry>
     <CheatEntry>
       <ID>54</ID>
-      <Description>"gold"</Description>
-      <LastState Value="391" RealAddress="12C6CDC4"/>
+      <Description>"gold-current"</Description>
       <VariableType>4 Bytes</VariableType>
       <Address>"silver.exe"+002E9EF4</Address>
       <Offsets>
@@ -487,23 +342,253 @@
       </Offsets>
     </CheatEntry>
     <CheatEntry>
-      <ID>104</ID>
+      <ID>173</ID>
+      <Description>"gold-max"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+002E9EF4</Address>
+      <Offsets>
+        <Offset>24</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>174</ID>
       <Description>"------------------------------"</Description>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>0</Address>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
     </CheatEntry>
     <CheatEntry>
-      <ID>105</ID>
+      <ID>175</ID>
+      <Description>"- ORBS -"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>179</ID>
+      <Description>"fire-orb_currently-set-level"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>154</Offset>
+        <Offset>20</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>180</ID>
+      <Description>"fire-orb_max-reached-level"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>158</Offset>
+        <Offset>20</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>178</ID>
+      <Description>"ice-orb_currently-set-level"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>154</Offset>
+        <Offset>5C</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"ice-orb_max-reached-level"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>158</Offset>
+        <Offset>5C</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>181</ID>
+      <Description>"life-orb_currently-set-level"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>154</Offset>
+        <Offset>98</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>182</ID>
+      <Description>"life-orb_max-reached-level"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>158</Offset>
+        <Offset>98</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>183</ID>
+      <Description>"lightning-orb_currently-set-level"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>154</Offset>
+        <Offset>D4</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>184</ID>
+      <Description>"lightning-orb_max-reached-level"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>158</Offset>
+        <Offset>D4</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>185</ID>
+      <Description>"earth-orb_currently-set-level"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>154</Offset>
+        <Offset>110</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>186</ID>
+      <Description>"earth-orb_max-reached-level"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>158</Offset>
+        <Offset>110</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>187</ID>
+      <Description>"acid-orb_currently-set-level"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>154</Offset>
+        <Offset>14C</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>188</ID>
+      <Description>"acid-orb_max-reached-level"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>158</Offset>
+        <Offset>14C</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>189</ID>
+      <Description>"time-orb_currently-set-level"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>154</Offset>
+        <Offset>188</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>190</ID>
+      <Description>"time-orb_max-reached-level"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>158</Offset>
+        <Offset>188</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>191</ID>
+      <Description>"light-orb_currently-set-level"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>154</Offset>
+        <Offset>1C4</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>192</ID>
+      <Description>"light-orb_max-reached-level"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>158</Offset>
+        <Offset>1C4</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>136</ID>
+      <Description>"------------------------------"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>139</ID>
       <Description>"- RANGED AMMO -"</Description>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>0</Address>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
     </CheatEntry>
     <CheatEntry>
-      <ID>51</ID>
-      <Description>"arrows"</Description>
-      <LastState Value="15" RealAddress="12C6CDD4"/>
+      <ID>162</ID>
+      <Description>"knives_current"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+002E9EF4</Address>
+      <Offsets>
+        <Offset>58</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>171</ID>
+      <Description>"knives_max"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+002E9EF4</Address>
+      <Offsets>
+        <Offset>54</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>168</ID>
+      <Description>"arrows_current"</Description>
       <VariableType>4 Bytes</VariableType>
       <Address>"silver.exe"+002E9EF4</Address>
       <Offsets>
@@ -511,16 +596,90 @@
       </Offsets>
     </CheatEntry>
     <CheatEntry>
-      <ID>52</ID>
-      <Description>"------------------------------"</Description>
+      <ID>51</ID>
+      <Description>"arrows_max"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
-      <Address>0</Address>
+      <Address>"silver.exe"+002E9EF4</Address>
+      <Offsets>
+        <Offset>34</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>167</ID>
+      <Description>"axes_current"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+002E9EF4</Address>
+      <Offsets>
+        <Offset>68</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>166</ID>
+      <Description>"axes_max"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+002E9EF4</Address>
+      <Offsets>
+        <Offset>64</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>170</ID>
+      <Description>"bombs_current"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+002E9EF4</Address>
+      <Offsets>
+        <Offset>78</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>169</ID>
+      <Description>"bombs_max"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+002E9EF4</Address>
+      <Offsets>
+        <Offset>74</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>164</ID>
+      <Description>"fire-arrows_current"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+002E9EF4</Address>
+      <Offsets>
+        <Offset>48</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>163</ID>
+      <Description>"fire-arrows_max"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+002E9EF4</Address>
+      <Offsets>
+        <Offset>44</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>137</ID>
+      <Description>"------------------------------"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>149</ID>
+      <Description>"- MAGICAL ITEMS -"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
     </CheatEntry>
     <CheatEntry>
       <ID>76</ID>
       <Description>"ice-wand"</Description>
-      <LastState Value="3F800000" RealAddress="10F19244"/>
       <ShowAsHex>1</ShowAsHex>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
@@ -534,47 +693,1016 @@
       </Offsets>
     </CheatEntry>
     <CheatEntry>
-      <ID>74</ID>
-      <Description>"------------------------------"</Description>
+      <ID>148</ID>
+      <Description>"fire-sword"</Description>
+      <ShowAsHex>1</ShowAsHex>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
-      <Address>0</Address>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>168</Offset>
+        <Offset>5C</Offset>
+        <Offset>7C</Offset>
+        <Offset>C</Offset>
+        <Offset>50</Offset>
+      </Offsets>
     </CheatEntry>
     <CheatEntry>
-      <ID>114</ID>
-      <Description>"No description"</Description>
-      <LastState Value="285" RealAddress="11A9BC34"/>
+      <ID>150</ID>
+      <Description>"lightning-staff"</Description>
+      <ShowAsHex>1</ShowAsHex>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
-      <Address>11A9BC34</Address>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>168</Offset>
+        <Offset>98</Offset>
+        <Offset>7C</Offset>
+        <Offset>C</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>151</ID>
+      <Description>"ring-of-invisibility"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>168</Offset>
+        <Offset>D4</Offset>
+        <Offset>7C</Offset>
+        <Offset>C</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>152</ID>
+      <Description>"amulet-of-seeing"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>168</Offset>
+        <Offset>110</Offset>
+        <Offset>7C</Offset>
+        <Offset>C</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>153</ID>
+      <Description>"ring-of-resist-magic"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>168</Offset>
+        <Offset>14C</Offset>
+        <Offset>7C</Offset>
+        <Offset>C</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>193</ID>
+      <Description>"summon-golem_charge"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>168</Offset>
+        <Offset>188</Offset>
+        <Offset>7C</Offset>
+        <Offset>C</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>196</ID>
+      <Description>"summon-golem_level"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>unknown</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>154</ID>
+      <Description>"lycanthrope"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>168</Offset>
+        <Offset>1C4</Offset>
+        <Offset>7C</Offset>
+        <Offset>C</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>138</ID>
+      <Description>"------------------------------"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>195</ID>
+      <Description>"- SHIELDS -"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"wooden shield?"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>164</Offset>
+        <Offset>20</Offset>
+        <Offset>7C</Offset>
+        <Offset>C</Offset>
+        <Offset>7C</Offset>
+        <Offset>C</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>10</ID>
+      <Description>"wooden shield?"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>160</Offset>
+        <Offset>20</Offset>
+        <Offset>7C</Offset>
+        <Offset>C</Offset>
+        <Offset>7C</Offset>
+        <Offset>C</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>9</ID>
+      <Description>"wooden shield?"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>15C</Offset>
+        <Offset>20</Offset>
+        <Offset>7C</Offset>
+        <Offset>C</Offset>
+        <Offset>7C</Offset>
+        <Offset>C</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"wooden shield? 2"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>164</Offset>
+        <Offset>20</Offset>
+        <Offset>40</Offset>
+        <Offset>1FC</Offset>
+        <Offset>7C</Offset>
+        <Offset>C</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"wooden shield? 2"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>160</Offset>
+        <Offset>20</Offset>
+        <Offset>40</Offset>
+        <Offset>1FC</Offset>
+        <Offset>7C</Offset>
+        <Offset>C</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>8</ID>
+      <Description>"wooden shield? 2"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>15C</Offset>
+        <Offset>20</Offset>
+        <Offset>40</Offset>
+        <Offset>1FC</Offset>
+        <Offset>7C</Offset>
+        <Offset>C</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>194</ID>
+      <Description>"------------------------------"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"No description"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>silver.exe+41CAD0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>203</ID>
+      <Description>"No description"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>silver.exe+41CAD4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>202</ID>
+      <Description>"No description"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>silver.exe+41D2B0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"No description"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>silver.exe+41D2B4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>204</ID>
+      <Description>"pointerscan result"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>F84</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>201</ID>
+      <Description>"pointerscan result"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>F88</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>205</ID>
+      <Description>"pointerscan result"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>F98</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>207</ID>
+      <Description>"pointerscan result"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>F9C</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>206</ID>
+      <Description>"pointerscan result"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>FC0</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"pointerscan result"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>FC4</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>198</ID>
+      <Description>"------------------------------"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>200</ID>
+      <Description>"ice-orb_is-unlocked"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"silver.exe"+003F3288</Address>
+      <Offsets>
+        <Offset>58</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>214</ID>
+      <Description>"------------------------------"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>212</ID>
+      <Description>"esi = [&lt;this address&gt;]"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>silver.exe+3F1564</Address>
+      <Offsets>
+        <Offset>8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>208</ID>
+      <Description>"eax = [esi+94]"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>silver.exe+3F1564</Address>
+      <Offsets>
+        <Offset>94</Offset>
+        <Offset>8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>209</ID>
+      <Description>"cmp eax, &lt;this address&gt;"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>silver.exe+3F158C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>210</ID>
+      <Description>"eax = [esi+90]"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>silver.exe+3F1564</Address>
+      <Offsets>
+        <Offset>90</Offset>
+        <Offset>8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>211</ID>
+      <Description>"[&lt;this address&gt;] = esi"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>silver.exe+3F1590</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>213</ID>
+      <Description>"test [esi+20], 8000"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>silver.exe+3F1564</Address>
+      <Offsets>
+        <Offset>20</Offset>
+        <Offset>8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>221</ID>
+      <Description>"ebx = [esi+4]"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>silver.exe+3F1564</Address>
+      <Offsets>
+        <Offset>4</Offset>
+        <Offset>8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>215</ID>
+      <Description>"cmp [eax], 05464563"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>silver.exe+3F1564</Address>
+      <Offsets>
+        <Offset>0</Offset>
+        <Offset>90</Offset>
+        <Offset>8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>216</ID>
+      <Description>"test [eax+20], 8000"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>silver.exe+3F1564</Address>
+      <Offsets>
+        <Offset>20</Offset>
+        <Offset>90</Offset>
+        <Offset>8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>217</ID>
+      <Description>"eax = [esi+8C]"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>silver.exe+3F1564</Address>
+      <Offsets>
+        <Offset>8C</Offset>
+        <Offset>8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>218</ID>
+      <Description>"eax = [esi+20]"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>silver.exe+3F1564</Address>
+      <Offsets>
+        <Offset>20</Offset>
+        <Offset>8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>219</ID>
+      <Description>"eax = [&lt;this address&gt;]"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>silver.exe+3F158C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>220</ID>
+      <Description>"[esi+94] = eax"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>silver.exe+3F1564</Address>
+      <Offsets>
+        <Offset>94</Offset>
+        <Offset>8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>223</ID>
+      <Description>"esi = ebx"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>224</ID>
+      <Description>"esi = [&lt;this address&gt;]"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>silver.exe+3F1564</Address>
+      <Offsets>
+        <Offset>4</Offset>
+        <Offset>8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>222</ID>
+      <Description>"------------------------------"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>226</ID>
+      <Description>"esi = [&lt;this address&gt;]"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>silver.exe+3F1564</Address>
+      <Offsets>
+        <Offset>8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>227</ID>
+      <Description>"while ( [esi+4] )"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>228</ID>
+      <Description>"    esi = [esi + 4]"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>225</ID>
+      <Description>"------------------------------"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>230</ID>
+      <Description>"esi = 1119F7CEC"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>229</ID>
+      <Description>"eax = [esi+70]"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+70</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>231</ID>
+      <Description>"[eax+58] = 0"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+70</Address>
+      <Offsets>
+        <Offset>58</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>232</ID>
+      <Description>"[eax+D4] = 0"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+70</Address>
+      <Offsets>
+        <Offset>D4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>233</ID>
+      <Description>"[eax+2C] = 0"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+70</Address>
+      <Offsets>
+        <Offset>2C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>236</ID>
+      <Description>"cmp [eax+F4], 0"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+70</Address>
+      <Offsets>
+        <Offset>F4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>237</ID>
+      <Description>"cmp [eax+E8], 0"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+70</Address>
+      <Offsets>
+        <Offset>E8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>241</ID>
+      <Description>"eax = [eax+E8]"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+70</Address>
+      <Offsets>
+        <Offset>E8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>242</ID>
+      <Description>"[esi+14] = 27"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+14</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>243</ID>
+      <Description>"eax = [eax+E4]"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+70</Address>
+      <Offsets>
+        <Offset>E4</Offset>
+        <Offset>E8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>244</ID>
+      <Description>"eax = [eax+14]"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+70</Address>
+      <Offsets>
+        <Offset>14</Offset>
+        <Offset>E4</Offset>
+        <Offset>E8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>246</ID>
+      <Description>"eax--"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>245</ID>
+      <Description>"if (eax &gt; 6) { goto &lt;exe&gt;+10F7FA; }"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>247</ID>
+      <Description>"goto [&lt;exe&gt;+10F82C+(4*eax)]"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>silver.exe+10F82C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>250</ID>
+      <Description>"------------------------------"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>268</ID>
+      <Description>"&lt;exe&gt;+112098-&gt;"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>silver.exe+112098</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>273</ID>
+      <Description>"&lt;exe&gt;+2E9E88-&gt;"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>silver.exe+2E9E88</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>275</ID>
+      <Description>"&lt;exe&gt;+2E9E88-&gt;0-&gt;"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>silver.exe+2E9E88</Address>
+      <Offsets>
+        <Offset>0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>276</ID>
+      <Description>"&lt;exe&gt;+2E9E88-&gt;0-&gt;4-&gt;"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>silver.exe+2E9E88</Address>
+      <Offsets>
+        <Offset>4</Offset>
+        <Offset>0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>261</ID>
+      <Description>"&lt;exe&gt;+3F156C-&gt;"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>silver.exe+3F156C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>262</ID>
+      <Description>"&lt;exe&gt;+3F156C-&gt;14-&gt;"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>silver.exe+3F156C</Address>
+      <Offsets>
+        <Offset>14</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>255</ID>
+      <Description>"(esi+14)-&gt;"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+14</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>263</ID>
+      <Description>"(esi+18)-&gt;"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+18</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>271</ID>
+      <Description>"(esi+64)-&gt;"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+64</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>274</ID>
+      <Description>"(esi+64)-&gt;0-&gt;"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+64</Address>
+      <Offsets>
+        <Offset>0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>277</ID>
+      <Description>"(esi+64)-&gt;4-&gt;"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+64</Address>
+      <Offsets>
+        <Offset>4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>278</ID>
+      <Description>"(esi+64)-&gt;4-&gt;[13]"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+64</Address>
+      <Offsets>
+        <Offset>4C</Offset>
+        <Offset>4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>256</ID>
+      <Description>"(esi+6C)-&gt;"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+6C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>257</ID>
+      <Description>"(esi+6C)-&gt;1C-&gt;"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+6C</Address>
+      <Offsets>
+        <Offset>1C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>258</ID>
+      <Description>"(esi+6C)-&gt;24-&gt;"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+6C</Address>
+      <Offsets>
+        <Offset>24</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>249</ID>
+      <Description>"(esi+70)-&gt;"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+70</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>252</ID>
+      <Description>"(esi+70)-&gt;E4-&gt;"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+70</Address>
+      <Offsets>
+        <Offset>E4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>251</ID>
+      <Description>"(esi+70)-&gt;E8-&gt;"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+70</Address>
+      <Offsets>
+        <Offset>E8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>253</ID>
+      <Description>"(esi+70)-&gt;E8-&gt;E4-&gt;"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+70</Address>
+      <Offsets>
+        <Offset>E4</Offset>
+        <Offset>E8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>254</ID>
+      <Description>"(esi+70)-&gt;E8-&gt;E4-&gt;4"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+70</Address>
+      <Offsets>
+        <Offset>4</Offset>
+        <Offset>E4</Offset>
+        <Offset>E8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>260</ID>
+      <Description>"(esi+70)-&gt;EC-&gt;"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+70</Address>
+      <Offsets>
+        <Offset>EC</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>264</ID>
+      <Description>"(esi+70)-&gt;F0-&gt;"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+70</Address>
+      <Offsets>
+        <Offset>F0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>269</ID>
+      <Description>"(esi+70)-&gt;F0-&gt;DC"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+70</Address>
+      <Offsets>
+        <Offset>DC</Offset>
+        <Offset>F0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>270</ID>
+      <Description>"(esi+70)-&gt;F0-&gt;E0"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+70</Address>
+      <Offsets>
+        <Offset>E0</Offset>
+        <Offset>F0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>265</ID>
+      <Description>"(esi+70)-&gt;F0-&gt;E4"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+70</Address>
+      <Offsets>
+        <Offset>E4</Offset>
+        <Offset>F0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>267</ID>
+      <Description>"(esi+70)-&gt;F0-&gt;E4-&gt;4"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+70</Address>
+      <Offsets>
+        <Offset>4</Offset>
+        <Offset>E4</Offset>
+        <Offset>F0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>266</ID>
+      <Description>"(esi+70)-&gt;F0-&gt;E4-&gt;14"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+70</Address>
+      <Offsets>
+        <Offset>14</Offset>
+        <Offset>E4</Offset>
+        <Offset>F0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>272</ID>
+      <Description>"(esi+70)-&gt;F0-&gt;E4-&gt;18"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+70</Address>
+      <Offsets>
+        <Offset>18</Offset>
+        <Offset>E4</Offset>
+        <Offset>F0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>259</ID>
+      <Description>"(esi+70)-&gt;F8-&gt;"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>119F7CEC+70</Address>
+      <Offsets>
+        <Offset>F8</Offset>
+      </Offsets>
     </CheatEntry>
   </CheatEntries>
   <CheatCodes>
-    <CodeEntry Color="20000000">
-      <Description>Code :dec [edx+0C]</Description>
-      <AddressString>silver.exe+F5962</AddressString>
+    <CodeEntry Color="80000008">
+      <Description>food dec 0: dec [eax+08]</Description>
+      <AddressString>silver.exe+F595F</AddressString>
       <Before>
+        <Byte>01</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
         <Byte>8B</Byte>
         <Byte>02</Byte>
-        <Byte>FF</Byte>
-        <Byte>48</Byte>
-        <Byte>08</Byte>
       </Before>
       <Actual>
         <Byte>FF</Byte>
-        <Byte>4A</Byte>
-        <Byte>0C</Byte>
+        <Byte>48</Byte>
+        <Byte>08</Byte>
       </Actual>
       <After>
+        <Byte>FF</Byte>
+        <Byte>4A</Byte>
+        <Byte>0C</Byte>
         <Byte>83</Byte>
         <Byte>BE</Byte>
-        <Byte>1C</Byte>
-        <Byte>01</Byte>
-        <Byte>00</Byte>
       </After>
     </CodeEntry>
     <CodeEntry Color="20000000">
-      <Description>Code :call silver.exe+F5950</Description>
+      <Description>food dec 1: call silver.exe+F5950</Description>
       <AddressString>silver.exe+F50C9</AddressString>
       <Before>
         <Byte>75</Byte>
@@ -599,7 +1727,7 @@
       </After>
     </CodeEntry>
     <CodeEntry Color="20000000">
-      <Description>Code :call silver.exe+F50C0</Description>
+      <Description>food dec 2: call silver.exe+F50C0</Description>
       <AddressString>silver.exe+10F460</AddressString>
       <Before>
         <Byte>00</Byte>
@@ -624,7 +1752,28 @@
       </After>
     </CodeEntry>
     <CodeEntry Color="20000000">
-      <Description>Code :call silver.exe+10F380</Description>
+      <Description>food dec 2 - func start: push ebp</Description>
+      <AddressString>silver.exe+10F380</AddressString>
+      <Before>
+        <Byte>CC</Byte>
+        <Byte>CC</Byte>
+        <Byte>CC</Byte>
+        <Byte>CC</Byte>
+        <Byte>CC</Byte>
+      </Before>
+      <Actual>
+        <Byte>55</Byte>
+      </Actual>
+      <After>
+        <Byte>8B</Byte>
+        <Byte>EC</Byte>
+        <Byte>53</Byte>
+        <Byte>56</Byte>
+        <Byte>8B</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry Color="20000000">
+      <Description>food dec 3: call silver.exe+10F380</Description>
       <AddressString>silver.exe+10F8BB</AddressString>
       <Before>
         <Byte>9E</Byte>
@@ -649,7 +1798,28 @@
       </After>
     </CodeEntry>
     <CodeEntry Color="20000000">
-      <Description>Code :call silver.exe+10F850</Description>
+      <Description>food dec 3 - func start: push ebp</Description>
+      <AddressString>silver.exe+10F850</AddressString>
+      <Before>
+        <Byte>CC</Byte>
+        <Byte>CC</Byte>
+        <Byte>CC</Byte>
+        <Byte>CC</Byte>
+        <Byte>CC</Byte>
+      </Before>
+      <Actual>
+        <Byte>55</Byte>
+      </Actual>
+      <After>
+        <Byte>8B</Byte>
+        <Byte>EC</Byte>
+        <Byte>56</Byte>
+        <Byte>8B</Byte>
+        <Byte>75</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry Color="20000000">
+      <Description>food dec 4: call silver.exe+10F850</Description>
       <AddressString>silver.exe+10F7BC</AddressString>
       <Before>
         <Byte>04</Byte>
@@ -673,6 +1843,116 @@
         <Byte>E8</Byte>
       </After>
     </CodeEntry>
+    <CodeEntry Color="20000000">
+      <Description>food dec 4 - func start: push ebp</Description>
+      <AddressString>silver.exe+10F700</AddressString>
+      <Before>
+        <Byte>C3</Byte>
+        <Byte>CC</Byte>
+        <Byte>CC</Byte>
+        <Byte>CC</Byte>
+        <Byte>CC</Byte>
+      </Before>
+      <Actual>
+        <Byte>55</Byte>
+      </Actual>
+      <After>
+        <Byte>8B</Byte>
+        <Byte>EC</Byte>
+        <Byte>56</Byte>
+        <Byte>8B</Byte>
+        <Byte>75</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry Color="20000000">
+      <Description>game loop? 0: call eax</Description>
+      <AddressString>silver.exe+E72CB</AddressString>
+      <Before>
+        <Byte>86</Byte>
+        <Byte>8C</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Before>
+      <Actual>
+        <Byte>FF</Byte>
+        <Byte>D0</Byte>
+      </Actual>
+      <After>
+        <Byte>83</Byte>
+        <Byte>C4</Byte>
+        <Byte>04</Byte>
+        <Byte>8B</Byte>
+        <Byte>46</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry Color="20000000">
+      <Description>game loop? 0 - func start: push ebp</Description>
+      <AddressString>silver.exe+E7200</AddressString>
+      <Before>
+        <Byte>CC</Byte>
+        <Byte>CC</Byte>
+        <Byte>CC</Byte>
+        <Byte>CC</Byte>
+        <Byte>CC</Byte>
+      </Before>
+      <Actual>
+        <Byte>55</Byte>
+      </Actual>
+      <After>
+        <Byte>8B</Byte>
+        <Byte>EC</Byte>
+        <Byte>A1</Byte>
+        <Byte>64</Byte>
+        <Byte>15</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry Color="20000000">
+      <Description>game loop? 1: call silver.exe+E6CE0</Description>
+      <AddressString>silver.exe+105BBD</AddressString>
+      <Before>
+        <Byte>35</Byte>
+        <Byte>60</Byte>
+        <Byte>15</Byte>
+        <Byte>2B</Byte>
+        <Byte>01</Byte>
+      </Before>
+      <Actual>
+        <Byte>E8</Byte>
+        <Byte>1E</Byte>
+        <Byte>11</Byte>
+        <Byte>FE</Byte>
+        <Byte>FF</Byte>
+      </Actual>
+      <After>
+        <Byte>F3</Byte>
+        <Byte>0F</Byte>
+        <Byte>10</Byte>
+        <Byte>05</Byte>
+        <Byte>50</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry Color="80000008">
+      <Description>last stop in apple eat code</Description>
+      <AddressString>silver.exe+114384</AddressString>
+      <Before>
+        <Byte>04</Byte>
+        <Byte>98</Byte>
+        <Byte>8B</Byte>
+        <Byte>5D</Byte>
+        <Byte>10</Byte>
+      </Before>
+      <Actual>
+        <Byte>53</Byte>
+      </Actual>
+      <After>
+        <Byte>56</Byte>
+        <Byte>50</Byte>
+        <Byte>57</Byte>
+        <Byte>E8</Byte>
+        <Byte>23</Byte>
+      </After>
+    </CodeEntry>
   </CheatCodes>
   <UserdefinedSymbols/>
   <Structures StructVersion="2">
@@ -690,7 +1970,24 @@
         <Element Offset="36" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000024" Description="stat_max-hit-points" DisplayMethod="Unsigned Integer"/>
         <Element Offset="40" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000028" Description="stat_max-magic" DisplayMethod="Unsigned Integer"/>
         <Element Offset="44" Vartype="4 Bytes" Bytesize="4" OffsetHex="0000002C" Description="stat_armour-class" DisplayMethod="Unsigned Integer"/>
-        <Element Offset="48" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000030" Description="sp_web-of-death" DisplayMethod="Unsigned Integer"/>
+        <Element Offset="224" Vartype="4 Bytes" Bytesize="4" OffsetHex="000000E0" Description="sp_web-of-death" DisplayMethod="Unsigned Integer"/>
+      </Elements>
+    </Structure>
+    <Structure Name="Character" AutoFill="0" AutoCreate="1" DefaultHex="0" AutoDestroy="0" DoNotSaveLocal="0" RLECompression="1" AutoCreateStructsize="4096">
+      <Elements>
+        <Element Offset="0" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000000" Description="stat_class?" DisplayMethod="Unsigned Integer"/>
+        <Element Offset="4" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000004" Description="stat_level" DisplayMethod="Unsigned Integer"/>
+        <Element Offset="8" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000008" Description="stat_strength" DisplayMethod="Unsigned Integer"/>
+        <Element Offset="12" Vartype="4 Bytes" Bytesize="4" OffsetHex="0000000C" Description="stat_dexterity" DisplayMethod="Unsigned Integer"/>
+        <Element Offset="16" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000010" Description="stat_ranged-skill" DisplayMethod="Unsigned Integer"/>
+        <Element Offset="20" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000014" Description="stat_wisdom" DisplayMethod="Unsigned Integer"/>
+        <Element Offset="24" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000018" Description="stat_constitution" DisplayMethod="Unsigned Integer"/>
+        <Element Offset="28" Vartype="4 Bytes" Bytesize="4" OffsetHex="0000001C" Description="stat_current-hit-points" DisplayMethod="Unsigned Integer"/>
+        <Element Offset="32" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000020" Description="stat_current-magic" DisplayMethod="Unsigned Integer"/>
+        <Element Offset="36" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000024" Description="stat_max-hit-points" DisplayMethod="Unsigned Integer"/>
+        <Element Offset="40" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000028" Description="stat_max-magic" DisplayMethod="Unsigned Integer"/>
+        <Element Offset="44" Vartype="4 Bytes" Bytesize="4" OffsetHex="0000002C" Description="stat_armour-class" DisplayMethod="Unsigned Integer"/>
+        <Element Offset="224" Vartype="4 Bytes" Bytesize="4" OffsetHex="000000E0" Description="sp_web-of-death" DisplayMethod="Unsigned Integer"/>
       </Elements>
     </Structure>
   </Structures>
