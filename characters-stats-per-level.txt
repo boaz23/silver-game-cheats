@@ -1,0 +1,487 @@
+// Max level stats
+
+Level 11: {
+    MaxOfEach: {
+        Hit Points:    3733,
+        Magic:         538,
+        Strength:      827,
+        Dexterity:     965,
+        Ranged Skill:  359,
+        Constitution:  310,
+        Wisdom:        579,
+        Armour Class:  1539,
+    },
+
+    Characters: {
+        David: {
+            Hit Points:    3200,
+            Magic:         323,
+            Strength:      634,
+            Dexterity:     469,
+            Ranged Skill:  192,
+            Constitution:  235,
+            Wisdom:        345,
+            Armour Class:  1209,
+        },
+
+        Cagen: {
+            Hit Points:    2800,
+            Magic:         410,
+            Strength:      496,
+            Dexterity:     965,
+            Ranged Skill:  248,
+            Constitution:  235,
+            Wisdom:        386,
+            Armour Class:  880,
+        },
+
+        Chiaro: {
+            Hit Points:    1667,
+            Magic:         538,
+            Strength:      221,
+            Dexterity:     607,
+            Ranged Skill:  149,
+            Constitution:  198,
+            Wisdom:        579,
+            Armour Class:  440,
+        },
+
+        Jug: {
+            Hit Points:    3733,
+            Magic:         93,
+            Strength:      827,
+            Dexterity:     110,
+            Ranged Skill:  155,
+            Constitution:  310,
+            Wisdom:        110,
+            Armour Class:  1539,
+        },
+
+        Sekune: {
+            Hit Points:    2333,
+            Magic:         184,
+            Strength:      496,
+            Dexterity:     427,
+            Ranged Skill:  359,
+            Constitution:  223,
+            Wisdom:        221,
+            Armour Class:  990,
+        },
+
+        Vivienne: {
+            Hit Points:    2667,
+            Magic:         267,
+            Strength:      551,
+            Dexterity:     496,
+            Ranged Skill:  198,
+            Constitution:  186,
+            Wisdom:        303,
+            Armour Class:  1100,
+        },
+    },
+},
+
+Level 12: {
+    MaxOfEach: {
+        Hit Points:   5301,
+        Magic:        685,
+        Strength:     1075,
+        Dexterity:    1255,
+        Ranged Skill: 431,
+        Constitution: 372,
+        Wisdom:       753,
+        Armour Class: 2463,
+    },
+
+    Characters: {
+        David: {
+            Hit Points:   4544,
+            Magic:        412,
+            Strength:     824,
+            Dexterity:    609,
+            Ranged Skill: 230,
+            Constitution: 282,
+            Wisdom:       448,
+            Armour Class: 1935,
+        },
+
+        Cagen: {
+            Hit Points:   3976,
+            Magic:        514,
+            Strength:     645,
+            Dexterity:    1255,
+            Ranged Skill: 297,
+            Constitution: 282,
+            Wisdom:       502,
+            Armour Class: 1407,
+        },
+
+        Chiaro: {
+            Hit Points:   2367,
+            Magic:        685,
+            Strength:     287,
+            Dexterity:    789,
+            Ranged Skill: 178,
+            Constitution: 238,
+            Wisdom:       753,
+            Armour Class: 704,
+        },
+
+        Jug: {
+            Hit Points:   5301,
+            Magic:        121,
+            Strength:     1075,
+            Dexterity:    143,
+            Ranged Skill: 186,
+            Constitution: 372,
+            Wisdom:       143,
+            Armour Class: 2463,
+        },
+
+        Sekune: {
+            Hit Points:   3313,
+            Magic:        239,
+            Strength:     645,
+            Dexterity:    556,
+            Ranged Skill: 431,
+            Constitution: 267,
+            Wisdom:       287,
+            Armour Class: 1583,
+        },
+
+        Vivienne: {
+            Hit Points:   3787,
+            Magic:        344,
+            Strength:     717,
+            Dexterity:    645,
+            Ranged Skill: 238,
+            Constitution: 223,
+            Wisdom:       394,
+            Armour Class: 1759,
+        },
+    },
+},
+
+Level 13: {
+    MaxOfEach: {
+        Hit Points:    7528,
+        Magic:         876,
+        Strength:      1398,
+        Dexterity:     1631,
+        Ranged Skill:  517,
+        Constitution:  446,
+        Wisdom:        979,
+        Armour Class:  3941,
+    },
+
+    Characters: {
+        David: {
+            Hit Points:    6453,
+            Magic:         526,
+            Strength:      1072,
+            Dexterity:     792,
+            Ranged Skill:  276,
+            Constitution:  339,
+            Wisdom:        582,
+            Armour Class:  3096,
+        },
+
+        Cagen: {
+            Hit Points:    5646,
+            Magic:         647,
+            Strength:      839,
+            Dexterity:     1631,
+            Ranged Skill:  357,
+            Constitution:  339,
+            Wisdom:        652,
+            Armour Class:  2252,
+        },
+
+        Chiaro: {
+            Hit Points:    3361,
+            Magic:         876,
+            Strength:      373,
+            Dexterity:     1025,
+            Ranged Skill:  214,
+            Constitution:  285,
+            Wisdom:        979,
+            Armour Class:  1126,
+        },
+
+        Jug: {
+            Hit Points:    7528,
+            Magic:         156,
+            Strength:      1398,
+            Dexterity:     186,
+            Ranged Skill:  223,
+            Constitution:  446,
+            Wisdom:        186,
+            Armour Class:  3941,
+        },
+
+        Sekune: {
+            Hit Points:    4705,
+            Magic:         309,
+            Strength:      839,
+            Dexterity:     722,
+            Ranged Skill:  517,
+            Constitution:  321,
+            Wisdom:        373,
+            Armour Class:  2533,
+        },
+
+        Vivienne: {
+            Hit Points:    5377,
+            Magic:         442,
+            Strength:      932,
+            Dexterity:     839,
+            Ranged Skill:  285,
+            Constitution:  267,
+            Wisdom:        513,
+            Armour Class:  2815,
+        },
+    },
+},
+
+Level 14: {
+    MaxOfEach: {
+        Hit Points:    10690,
+        Magic:         1123,
+        Strength:      1817,
+        Dexterity:     2120,
+        Ranged Skill:  621,
+        Constitution:  535,
+        Wisdom:        1272,
+        Armour Class:  6305,
+    },
+
+    Characters: {
+        David: {
+            Hit Points:    9163,
+            Magic:         673,
+            Strength:      1393,
+            Dexterity:     1030,
+            Ranged Skill:  332,
+            Constitution:  407,
+            Wisdom:        757,
+            Armour Class:  4954,
+        },
+
+        Cagen: {
+            Hit Points:    8017,
+            Magic:         818,
+            Strength:      1090,
+            Dexterity:     2120,
+            Ranged Skill:  428,
+            Constitution:  407,
+            Wisdom:        848,
+            Armour Class:  3603,
+        },
+
+        Chiaro: {
+            Hit Points:    4772,
+            Magic:         1123,
+            Strength:      485,
+            Dexterity:     1333,
+            Ranged Skill:  257,
+            Constitution:  342,
+            Wisdom:        1272,
+            Armour Class:  1801,
+        },
+
+        Jug: {
+            Hit Points:    10690,
+            Magic:         202,
+            Strength:      1817,
+            Dexterity:     242,
+            Ranged Skill:  267,
+            Constitution:  535,
+            Wisdom:        242,
+            Armour Class:  6305,
+        },
+
+        Sekune: {
+            Hit Points:    6681,
+            Magic:         401,
+            Strength:      1090,
+            Dexterity:     939,
+            Ranged Skill:  621,
+            Constitution:  385,
+            Wisdom:        485,
+            Armour Class:  4053,
+        },
+
+        Vivienne: {
+            Hit Points:    7636,
+            Magic:         569,
+            Strength:      1212,
+            Dexterity:     1090,
+            Ranged Skill:  342,
+            Constitution:  321,
+            Wisdom:        666,
+            Armour Class:  4504,
+        },
+    },
+},
+
+Level 15: {
+    MaxOfEach: {
+        Hit Points:    15179,
+        Magic:         1442,
+        Strength:      2362,
+        Dexterity:     2756,
+        Ranged Skill:  745,
+        Constitution:  642,
+        Wisdom:        1654,
+        Armour Class:  10088,
+    },
+
+    Characters: {
+        David: {
+            Hit Points:    13011,
+            Magic:         863,
+            Strength:      1811,
+            Dexterity:     1339,
+            Ranged Skill:  398,
+            Constitution:  488,
+            Wisdom:        984,
+            Armour Class:  7926,
+        },
+
+        Cagen: {
+            Hit Points:    11385,
+            Magic:         1037,
+            Strength:      1417,
+            Dexterity:     2756,
+            Ranged Skill:  514,
+            Constitution:  488,
+            Wisdom:        1102,
+            Armour Class:  5765,
+        },
+
+        Chiaro: {
+            Hit Points:    6777,
+            Magic:         1442,
+            Strength:      630,
+            Dexterity:     1732,
+            Ranged Skill:  308,
+            Constitution:  411,
+            Wisdom:        1654,
+            Armour Class:  2882,
+        },
+
+        Jug: {
+            Hit Points:    15179,
+            Magic:         262,
+            Strength:      2362,
+            Dexterity:     315,
+            Ranged Skill:  321,
+            Constitution:  642,
+            Wisdom:        315,
+            Armour Class:  10088,
+        },
+
+        Sekune: {
+            Hit Points:    9487,
+            Magic:         519,
+            Strength:      1417,
+            Dexterity:     1221,
+            Ranged Skill:  745,
+            Constitution:  462,
+            Wisdom:        630,
+            Armour Class:  6485,
+        },
+
+        Vivienne: {
+            Hit Points:    10842,
+            Magic:         735,
+            Strength:      1575,
+            Dexterity:     1417,
+            Ranged Skill:  411,
+            Constitution:  385,
+            Wisdom:        866,
+            Armour Class:  7206,
+        },
+    },
+},
+
+Level 16: {
+    MaxOfEach: {
+        Hit Points:    21555,
+        Magic:         1731,
+        Strength:      3071,
+        Dexterity:     3583,
+        Ranged Skill:  894,
+        Constitution:  770,
+        Wisdom:        2150,
+        Armour Class:  16141,
+    },
+
+    Characters: {
+        David: {
+            Hit Points:    18476,
+            Magic:         1079,
+            Strength:      2355,
+            Dexterity:     1740,
+            Ranged Skill:  478,
+            Constitution:  585,
+            Wisdom:        1280,
+            Armour Class:  12682,
+        },
+
+        Cagen: {
+            Hit Points:    16166,
+            Magic:         1320,
+            Strength:      1843,
+            Dexterity:     3583,
+            Ranged Skill:  616,
+            Constitution:  585,
+            Wisdom:        1433,
+            Armour Class:  9223,
+        },
+
+        Chiaro: {
+            Hit Points:    9623,
+            Magic:         1731,
+            Strength:      819,
+            Dexterity:     2252,
+            Ranged Skill:  370,
+            Constitution:  493,
+            Wisdom:        2150,
+            Armour Class:  4612,
+        },
+
+        Jug: {
+            Hit Points:    21555,
+            Magic:         339,
+            Strength:      3071,
+            Dexterity:     409,
+            Ranged Skill:  385,
+            Constitution:  770,
+            Wisdom:        409,
+            Armour Class:  16141,
+        },
+
+        Sekune: {
+            Hit Points:    13472,
+            Magic:         674,
+            Strength:      1843,
+            Dexterity:     1587,
+            Ranged Skill:  894,
+            Constitution:  555,
+            Wisdom:        819,
+            Armour Class:  10376,
+        },
+
+        Vivienne: {
+            Hit Points:    15396,
+            Magic:         949,
+            Strength:      2047,
+            Dexterity:     1843,
+            Ranged Skill:  493,
+            Constitution:  462,
+            Wisdom:        1126,
+            Armour Class:  11529,
+        },
+    },
+},
